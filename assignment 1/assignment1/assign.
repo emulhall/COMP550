@@ -1,0 +1,4 @@
+from sklearn import datasets, model_selection;
+from sklearn.model_selection import train_test_split
+raw_data= datasets.load_files('/Users/emilymulhall/Documents/08_McGill Fall 2017/COMP 550/rt-polaritydata', encoding='latin-1');
+train, test=train_test_split(raw_data, test_size=.3)

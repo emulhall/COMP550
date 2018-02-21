@@ -1,0 +1,144 @@
+Parameters: (1, 1)
+None
+MultinomialNB(alpha=1.0, class_prior=None, fit_prior=True)
+0.9
+0.01
+Score:0.352436292244
+Confusion matrix:[[2510 4758]
+ [4541 2551]]Random baseline:0.509470820339
+
+
+Parameters: (1, 1)
+None
+LogisticRegression(C=1.0, class_weight=None, dual=False, fit_intercept=True,
+          intercept_scaling=1, max_iter=100, multi_class='ovr', n_jobs=1,
+          penalty='l2', random_state=None, solver='liblinear', tol=0.0001,
+          verbose=0, warm_start=False)
+0.9
+0.01
+Score:0.318732564103
+Confusion matrix:[[2314 4954]
+ [4829 2263]]Random baseline:0.499025602964
+
+
+Parameters: (1, 1)
+None
+SVC(C=1.0, cache_size=200, class_weight=None, coef0=0.0,
+  decision_function_shape='ovr', degree=3, gamma='auto', kernel='linear',
+  max_iter=-1, probability=False, random_state=None, shrinking=True,
+  tol=0.001, verbose=False)
+0.9
+0.01
+Score:0.218732220811
+Confusion matrix:[[1539 5729]
+ [5490 1602]]Random baseline:0.50320346881
+
+
+Parameters: (1, 1)
+english
+MultinomialNB(alpha=1.0, class_prior=None, fit_prior=True)
+0.9
+0.01
+Score:0.219639472224
+Confusion matrix:[[1678 5590]
+ [5616 1476]]Random baseline:0.496240426948
+
+
+Parameters: (1, 1)
+english
+LogisticRegression(C=1.0, class_weight=None, dual=False, fit_intercept=True,
+          intercept_scaling=1, max_iter=100, multi_class='ovr', n_jobs=1,
+          penalty='l2', random_state=None, solver='liblinear', tol=0.0001,
+          verbose=0, warm_start=False)
+0.9
+0.01
+Score:0.195198116245
+Confusion matrix:[[1462 5806]
+ [5751 1341]]Random baseline:0.500419340127
+
+
+Parameters: (1, 1)
+english
+SVC(C=1.0, cache_size=200, class_weight=None, coef0=0.0,
+  decision_function_shape='ovr', degree=3, gamma='auto', kernel='linear',
+  max_iter=-1, probability=False, random_state=None, shrinking=True,
+  tol=0.001, verbose=False)
+0.9
+0.01
+Score:0.11928798176
+Confusion matrix:[[ 810 6458]
+ [6189  903]]Random baseline:0.502227180758
+
+
+Parameters: (1, 2)
+None
+MultinomialNB(alpha=1.0, class_prior=None, fit_prior=True)
+0.9
+0.01
+Score:0.364971838986
+Confusion matrix:[[2606 4662]
+ [4457 2635]]Random baseline:0.501671512905
+
+
+Parameters: (1, 2)
+None
+LogisticRegression(C=1.0, class_weight=None, dual=False, fit_intercept=True,
+          intercept_scaling=1, max_iter=100, multi_class='ovr', n_jobs=1,
+          penalty='l2', random_state=None, solver='liblinear', tol=0.0001,
+          verbose=0, warm_start=False)
+0.9
+0.01
+Score:0.324512469827
+Confusion matrix:[[2356 4912]
+ [4788 2304]]Random baseline:0.496448438736
+
+
+Parameters: (1, 2)
+None
+SVC(C=1.0, cache_size=200, class_weight=None, coef0=0.0,
+  decision_function_shape='ovr', degree=3, gamma='auto', kernel='linear',
+  max_iter=-1, probability=False, random_state=None, shrinking=True,
+  tol=0.001, verbose=False)
+0.9
+0.01
+Score:0.23252142405
+Confusion matrix:[[1669 5599]
+ [5422 1670]]Random baseline:0.497772528317
+
+
+Parameters: (1, 2)
+english
+MultinomialNB(alpha=1.0, class_prior=None, fit_prior=True)
+0.9
+0.01
+Score:0.220335948056
+Confusion matrix:[[1686 5582]
+ [5614 1478]]Random baseline:0.495891374441
+
+
+Parameters: (1, 2)
+english
+LogisticRegression(C=1.0, class_weight=None, dual=False, fit_intercept=True,
+          intercept_scaling=1, max_iter=100, multi_class='ovr', n_jobs=1,
+          penalty='l2', random_state=None, solver='liblinear', tol=0.0001,
+          verbose=0, warm_start=False)
+0.9
+0.01
+Score:0.19617294967
+Confusion matrix:[[1467 5801]
+ [5742 1350]]Random baseline:0.501184590766
+
+
+Parameters: (1, 2)
+english
+SVC(C=1.0, cache_size=200, class_weight=None, coef0=0.0,
+  decision_function_shape='ovr', degree=3, gamma='auto', kernel='linear',
+  max_iter=-1, probability=False, random_state=None, shrinking=True,
+  tol=0.001, verbose=False)
+0.9
+0.01
+Score:0.119984835795
+Confusion matrix:[[ 833 6435]
+ [6202  890]]Random baseline:0.500000843684
+
+
